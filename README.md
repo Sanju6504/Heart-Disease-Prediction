@@ -43,7 +43,7 @@ The dataset contains the following **features**:
 13. **thal** – Thalassemia (0 = normal; 1 = fixed defect; 2 = reversible defect)
 14. **target** – Target variable (1 = heart disease, 0 = no heart disease)
 
-Dataset source: [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease) / [Kaggle](https://www.kaggle.com/datasets)
+Dataset source: [Kaggle](https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction)
 
 ---
 
@@ -54,6 +54,7 @@ Dataset source: [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/hear
   - `Pandas`, `NumPy` – Data manipulation
   - `Matplotlib`, `Seaborn` – Visualization
   - `Scikit-learn` – ML models and evaluation
+- **Tools**: Jupyter Notebook
 
 ---
 
@@ -77,7 +78,8 @@ heart-disease-prediction/
 │   └── svm_classifier.ipynb        # SVM implementation
 │
 ├── visuals/
-│   └── confusion_matrix.png        # Visualizations (e.g., confusion matrix, ROC curve)
+│   ├── LinearRegression-ConfusionMatrix.png        # Confusion matrix visualization
+│   └── SVM-ConfusionMatrix.png                     # SVM decision boundary or result visualization
 │
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # Project overview and documentation
