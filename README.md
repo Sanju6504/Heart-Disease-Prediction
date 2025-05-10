@@ -66,4 +66,42 @@ Dataset source: [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/hear
 
 > Both models achieved similar test accuracy. Logistic Regression showed slightly better performance on training data. Future improvements can include hyperparameter tuning or using ensemble methods.
 
+## Structure
 
+heart-disease-prediction/
+├── dataset/
+│   └── Heart_data.csv              # Dataset used in the project
+│
+├── notebooks/
+│   ├── logistic_regression.ipynb   # Logistic Regression implementation
+│   └── svm_classifier.ipynb        # SVM implementation
+│
+├── visuals/
+│   └── confusion_matrix.png        # Visualizations (e.g., confusion matrix, ROC curve)
+│
+├── requirements.txt                # Python dependencies
+├── README.md                       # Project overview and documentation
+└── LICENSE                         # License file (e.g., MIT)
+
+
+---
+
+## ▶️ How to Run
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/your-username/heart-disease-prediction.git
+   cd heart-disease-prediction
+
+2. ## Install Dependencies
+   pip install -r requirements.txt
+
+3. Open and run the notebooks or use Google Colab
+   jupyter notebook
+
+## 📌 License
+This project is open-source and free to use under the MIT License.
+
+## 🙌 Acknowledgements
+UCI Machine Learning Repository
+Kaggle Datasets
