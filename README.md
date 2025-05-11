@@ -69,6 +69,9 @@ Dataset source: [Kaggle](https://www.kaggle.com/datasets/rishidamarla/heart-dise
 
 ## Structure
 
+## 📁 Project Structure
+
+```
 heart-disease-prediction/
 ├── dataset/
 │   └── Heart_data.csv              # Dataset used in the project
@@ -84,6 +87,7 @@ heart-disease-prediction/
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # Project overview and documentation
 └── LICENSE                         # License file (e.g., MIT)
+```
 
 
 ---
