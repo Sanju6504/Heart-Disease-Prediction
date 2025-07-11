@@ -105,9 +105,6 @@ heart-disease-prediction/
 3. Open and run the notebooks or use Google Colab
    jupyter notebook
 
-## 📌 License
-This project is open-source and free to use under the MIT License.
-
 ## 🙌 Acknowledgements
 UCI Machine Learning Repository
 Kaggle Datasets
