@@ -7,7 +7,7 @@ This repository contains a machine learning project focused on predicting the pr
 ## Objectives
 
 - Load and explore the dataset
-- Preprocess the data (scaling, stratified split)
+- Preprocess the data
 - Train models using SVM and Logistic Regression
 - Evaluate model performance with:
   - Accuracy
