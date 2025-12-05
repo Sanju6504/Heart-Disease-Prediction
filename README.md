@@ -4,7 +4,7 @@ This repository contains a machine learning project focused on predicting the pr
 
 ---
 
-## 💡 Objectives
+## Objectives
 
 - Load and explore the dataset
 - Preprocess the data (scaling, stratified split)
@@ -23,7 +23,7 @@ Dataset source: [Kaggle](https://www.kaggle.com/datasets/rishidamarla/heart-dise
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Programming Language**: Python
 - **Libraries**:
@@ -34,7 +34,7 @@ Dataset source: [Kaggle](https://www.kaggle.com/datasets/rishidamarla/heart-dise
 
 ---
 
-## 📈 Results
+## Results
 
 | Model               | Accuracy (Test) | Accuracy (Train) |
 |--------------------|------------------|------------------|
