@@ -45,6 +45,6 @@ Dataset source: [Kaggle](https://www.kaggle.com/datasets/rishidamarla/heart-dise
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 UCI Machine Learning Repository
 Kaggle Datasets
